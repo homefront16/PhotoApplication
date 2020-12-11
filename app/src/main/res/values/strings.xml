@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoApplication</string>
+    <string name="Take">Take</string>
+    <string name="Load">Load</string>
+    <string name="List">List</string>
+    <string name="Message">Message</string>
+    <string name="UserPhoto">UserPhoto</string>
+</resources>
